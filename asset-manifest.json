@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/logingau/static/css/main.4a26e67f.css",
+    "main.js": "/logingau/static/js/main.1c57bb8a.js",
+    "static/media/Screenshot_1.png": "/logingau/static/media/Screenshot_1.fa1d3f8c2fe4a6f87fd9.png",
+    "index.html": "/logingau/index.html",
+    "main.4a26e67f.css.map": "/logingau/static/css/main.4a26e67f.css.map",
+    "main.1c57bb8a.js.map": "/logingau/static/js/main.1c57bb8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a26e67f.css",
+    "static/js/main.1c57bb8a.js"
+  ]
+}
